@@ -16,7 +16,7 @@ In this project you will detect lane lines in images using Python and OpenCV.
   * 5- Finally applying Hough Transforme
   
 ### Average/Extrapolate:
-This part of the project would not be done without the help from (this well explained repository [link] (https://github.com/gongf05/udacity-self-driving-car-projects/tree/master/Term1-P1-lane-line))
+This part of the project would not be done without the help from this well explained repository [link](https://github.com/gongf05/udacity-self-driving-car-projects/tree/master/Term1-P1-lane-line)
 
 ### Dependencies:
 Python3 Along with:
