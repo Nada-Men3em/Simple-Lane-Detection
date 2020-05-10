@@ -6,6 +6,8 @@ When we drive, we use our eyes to decide where to go. The lines on the road that
 
 In this project you will detect lane lines in images using Python and OpenCV.
 
+![](Output.png)
+
 ## Project Description 
 
 #### My pipeline consisted of 5 steps:
